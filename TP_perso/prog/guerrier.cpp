@@ -1,5 +1,5 @@
 #include "guerrier.h"
-
+njubbub
 guerrier::guerrier() : rage(100*1.5), force(50), rage(0)
 {
 
