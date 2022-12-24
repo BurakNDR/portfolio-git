@@ -1,0 +1,159 @@
+LM
+• Entrée
+– Carpaccio de boeuf fraîchement tranché 8,5 €
+
+• Plat
+– Pizza Diavolata 11 €
+    Tomate, sauce picante, Mozarella, jambon et viande hachée
+• Dessert
+– Tiramisu 5 €
+
+Total : 24,5€
+LS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+MM
+• Entrée
+– Bouchée à la reine 8,5 €
+
+• Plat
+– Pâtes Pesto Aux choix : Tagliatelles 10 €
+    Basilic, copeaux de Parmesan, pignons de pin
+• Dessert
+– Café gourmand 5 €
+
+Total : 24,5€
+MS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+MEM
+• Entrée
+– Carpaccio de boeuf fraîchement tranché 8,5 €
+
+• Plat
+– Pizza Diavolata 11 €
+    Tomate, sauce picante, Mozarella, jambon et viande hachée
+• Dessert
+– Tiramisu 5 €
+
+Total : 24,5€
+MES
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+JM
+• Entrée
+– Bouchée à la reine 8,5 €
+
+• Plat
+– Pâtes Pesto Aux choix : Tagliatelles 10 €
+    Basilic, copeaux de Parmesan, pignons de pin
+• Dessert
+– Café gourmand 5 €
+
+Total : 24,5€
+JS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+VM
+• Entrée
+– Carpaccio de boeuf fraîchement tranché 8,5 €
+
+• Plat
+– Pizza Diavolata 11 €
+    Tomate, sauce picante, Mozarella, jambon et viande hachée
+• Dessert
+– Tiramisu 5 €
+
+Total : 24,5€
+VS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+SM
+• Entrée
+– Carpaccio de boeuf fraîchement tranché 8,5 €
+
+• Plat
+– Pizza Diavolata 11 €
+    Tomate, sauce picante, Mozarella, jambon et viande hachée
+• Dessert
+– Tiramisu 5 €
+
+Total : 24,5€
+SS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
+DM
+• Entrée
+– Carpaccio de boeuf fraîchement tranché 8,5 €
+
+• Plat
+– Pizza Diavolata 11 €
+    Tomate, sauce picante, Mozarella, jambon et viande hachée
+• Dessert
+– Tiramisu 5 €
+DS
+• Entrée
+– Bruschetta saumon ( 2 pièces) 5,5 €
+
+• Plat
+– Escalope Florentina 15 €
+    Escalope, Aubergine, sauce napolitaine, Mozarella Al forno
+
+• Dessert
+– Moelleux au chocolat 5 €
+
+Total : 25,5€
