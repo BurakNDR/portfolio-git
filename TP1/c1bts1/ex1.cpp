@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+BINKKSS
 class rectangle
 {
     private:
